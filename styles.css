@@ -1,0 +1,26 @@
+body {
+  font: normal 16px Arial, Helvetica, sans-serif;
+  line-height: 1.2 em;
+  background-color: gainsboro;
+  height: 100%;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: purple;
+}
+a :active {
+  color: aquamarine;
+}
+nav ul {
+  list-style: none;
+  display: inline;
+  padding: 0;
+}
+nav ul li {
+  display: inline-block;
+}
+footer {
+  text-align: center;
+}
